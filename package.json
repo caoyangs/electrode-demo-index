@@ -1,6 +1,6 @@
 {
-  "name": "electrode-demo-index",
-  "version": "1.0.2",
+  "name": "@caoyangs/electrode-demo-index",
+  "version": "1.0.0",
   "description": "An extendable class for demos in Electrode components",
   "main": "lib/index.js",
   "repository": {
@@ -39,7 +39,7 @@
     "object-assign": "^4.1.0"
   },
   "devDependencies": {
-    "electrode-archetype-react-component": "^1.0.0",
-    "electrode-archetype-react-component-dev": "^1.0.0"
+    "@caoyangs/electrode-archetype-react-component": "^1.0.0",
+    "@caoyangs/electrode-archetype-react-component-dev": "^1.0.0"
   }
 }
